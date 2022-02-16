@@ -1,5 +1,5 @@
+#import the name of the file NOT the name of the class 
 import CoinClass as c
-
 
 # The main function.
 def main():
